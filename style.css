@@ -1,0 +1,71 @@
+* {
+  background-image: url("https://i0.wp.com/blogpascher.com/wp-content/uploads/2015/10/currencyconverterwp.jpg?fit=520%2C350&ssl=1");
+  font-family: "Roboto Mono", monospace;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 0px;
+  height: 100vh;
+  margin: 0;
+}
+
+.page-title {
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+.page-subtitle {
+  color: #000000;
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+input {
+  background: #000000;
+  color: #ffffff;
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: #000000;
+  font-size: 20px;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #000000;
+  color: #ffffff;
+}
+
+#valorConvertido {
+  color: #000000;
+  font-size: 30px;
+  padding: 150px;
+}
+
+.valorEuro {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.euro {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+.h2 {
+  color: #000000;
+  font-size: 40px;
+  margin-top: 5px;
+}
